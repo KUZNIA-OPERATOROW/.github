@@ -28,7 +28,7 @@ Uzbrajamy inżynierów nowej generacji w technologie dające całkowitą suweren
 
 | ETAP | OPIS | TERMIN |
 | :--- | :--- | :--- |
-| **WHITELIST** | Otwarcie zapisów na listę oczekujących | **05.01.2026** |
+| **WHITELIST** | Otwarcie zapisów na listę oczekujących | **01.01.2026** |
 | **PRE-SALE** | Okno zakupowe z rabatem 5% | **01.03.2026** |
 | **DEPLOYMENT** | Start pierwszych sesji LIVE | **01.04.2026** |
 
