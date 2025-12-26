@@ -1,7 +1,7 @@
 # 📂 KUŹNIA_OPERATORÓW // INŻYNIERIA_AI_2026
 
 ![Status](https://img.shields.io/badge/STATUS-KALIBRACJA_SYSTEMU-orange?style=for-the-badge)
-![Rekrutacja](https://img.shields.io/badge/WHITELIST-START_05.01.2026-blue?style=for-the-badge)
+![Rekrutacja](https://img.shields.io/badge/WHITELIST-START_01.01.2026-blue?style=for-the-badge)
 
 ### 🚩 SYSTEM_MANIFEST
 Uzbrajamy inżynierów nowej generacji w technologie dające całkowitą suwerenność. Budujemy systemy AI, które działają lokalnie, są bezpieczne i skalowalne. Eliminujemy uzależnienie od SaaS na rzecz autorskiego stosu technologicznego.
